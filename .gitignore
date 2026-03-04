@@ -1,0 +1,13 @@
+# Codex runtime files
+.codex-global-state.json
+history.jsonl
+log/
+sessions/
+shell_snapshots/
+sqlite/
+state_*.sqlite*
+tmp/
+
+# Version check cache
+version.json
+vendor_imports

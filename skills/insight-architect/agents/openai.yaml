@@ -1,0 +1,4 @@
+interface:
+  display_name: "Insight Architect"
+  short_description: "将链接与截图解析为五维商业情报报告并输出可执行工作流建议"
+  default_prompt: "Use $insight-architect to turn this link or screenshot into a detailed 5D intelligence report and MOC-ready Markdown."

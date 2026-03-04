@@ -1,0 +1,10 @@
+version = 1
+id = "etf"
+name = "每日etf 动能报告"
+prompt = "[$etf-sector-momentum-report](/Users/felicity/.codex/skills/etf-sector-momentum-report/SKILL.md) 生成报告"
+status = "ACTIVE"
+rrule = "RRULE:FREQ=WEEKLY;BYHOUR=7;BYMINUTE=0;BYDAY=MO,TU,WE,TH,FR"
+execution_environment = "local"
+cwds = ["/Users/felicity/work/task/daily-news"]
+created_at = 1772853986740
+updated_at = 1772853986740

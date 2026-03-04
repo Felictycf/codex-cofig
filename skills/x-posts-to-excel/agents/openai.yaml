@@ -1,0 +1,4 @@
+interface:
+  display_name: "X Posts To Excel"
+  short_description: "Authenticated X timeline capture and Excel export workflow"
+  default_prompt: "Use $x-posts-to-excel to capture a target X account timeline and export the dataset to an .xlsx file."

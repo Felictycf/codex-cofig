@@ -1,0 +1,4 @@
+interface:
+  display_name: "X Backfill Oneclick"
+  short_description: "Multi-round X backfill merge with CSV and Excel export"
+  default_prompt: "Use $x-posts-backfill-oneclick to run multi-round X timeline backfill and export merged JSON, CSV, and XLSX outputs."

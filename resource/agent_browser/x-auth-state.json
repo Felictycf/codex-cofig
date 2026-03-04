@@ -1,0 +1,279 @@
+{
+  "cookies": [
+    {
+      "name": "guest_id_marketing",
+      "value": "v1%3A176923641344398480",
+      "domain": ".x.com",
+      "path": "/",
+      "expires": 1803822949.705611,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "guest_id_ads",
+      "value": "v1%3A176923641344398480",
+      "domain": ".x.com",
+      "path": "/",
+      "expires": 1803822949.705533,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "guest_id",
+      "value": "v1%3A176923641344398480",
+      "domain": ".x.com",
+      "path": "/",
+      "expires": 1803796411.431295,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__cuid",
+      "value": "98f3356c5a8a4fe7a71049213ffe27b6",
+      "domain": ".x.com",
+      "path": "/",
+      "expires": 1803822950,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "NID",
+      "value": "528=CDrfGvKg8zC1z7afRO2pHHzBQ4Hu6ZHMjN5HYjossfiBLel5993i2xWnnK4jv8zF17qScojb7KOupmRkR0eiTsRKtj9VJC76sO5Dr75n6o2SP336jIX3hGI5tQpmDpL7NvGxcy4K0aXeMrumN_RfESRgOxi5OJ3PIpOafgn1WnU3WE3rjndBjarUDjNO78Nd5W3fdtlojNJ8HIDg",
+      "domain": ".google.com",
+      "path": "/",
+      "expires": 1785047555.723882,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "guest_id_marketing",
+      "value": "v1%3A176923642963331511",
+      "domain": ".twitter.com",
+      "path": "/",
+      "expires": 1803796427.66918,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "guest_id_ads",
+      "value": "v1%3A176923642963331511",
+      "domain": ".twitter.com",
+      "path": "/",
+      "expires": 1803796427.669205,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "personalization_id",
+      "value": "\"v1_Mn4Qb+nHEHhK/nbXJdaajw==\"",
+      "domain": ".twitter.com",
+      "path": "/",
+      "expires": 1803796427.66928,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "guest_id",
+      "value": "v1%3A176923642963331511",
+      "domain": ".twitter.com",
+      "path": "/",
+      "expires": 1803796427.669303,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "personalization_id",
+      "value": "\"v1_6GEI4zXewmaruLGjDyKMxA==\"",
+      "domain": ".x.com",
+      "path": "/",
+      "expires": 1803796512.077501,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "g_state",
+      "value": "{\"i_l\":0,\"i_ll\":1769236514423,\"i_b\":\"37Y2HqppgZvonAZVeASDwyAdVzP+rxt1AZs9qSXXSv0\",\"i_e\":{\"enable_itp_optimization\":0}}",
+      "domain": "x.com",
+      "path": "/",
+      "expires": 1784788514,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "kdt",
+      "value": "zXAOH9176SZCe4tEAmBajHkxWwvThfif5qPsAgzL",
+      "domain": ".x.com",
+      "path": "/",
+      "expires": 1803796534.926807,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "auth_token",
+      "value": "f3a45841aba13ac35ddcd841a362dca8cedca479",
+      "domain": ".x.com",
+      "path": "/",
+      "expires": 1803796534.926937,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ct0",
+      "value": "958ded7d4fbac827f10764f024fdd9e32f468815136e747325e2d4de86aec9190b01a0731aa454e6dda945ae9548c0b007417661cb78092913b1cd1e12bae22777a8ae241c09c2722ddbd98e551dae1e",
+      "domain": ".x.com",
+      "path": "/",
+      "expires": 1803796535.252967,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "att",
+      "value": "1-goOsgT5hMofbh20kBsS82aZDOmizRQ43xvlNaJ57",
+      "domain": ".x.com",
+      "path": "/",
+      "expires": 1769322935.564775,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "lang",
+      "value": "en",
+      "domain": "x.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "twid",
+      "value": "u%3D1950722072549990400",
+      "domain": ".x.com",
+      "path": "/",
+      "expires": 1800798954.628533,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "muc",
+      "value": "c29f295a-b74b-4af9-b4b3-0203f0f74b7a",
+      "domain": ".t.co",
+      "path": "/",
+      "expires": 1803820824.398212,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "muc_ads",
+      "value": "c29f295a-b74b-4af9-b4b3-0203f0f74b7a",
+      "domain": ".t.co",
+      "path": "/",
+      "expires": 1803820824.398309,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_gh_sess",
+      "value": "rg6CM93MrmWR4XlAXiI0gnjR6aP5jM3DdXOzMw4E9DXqvbo9h2UWwkVBeZ4gSnfdCk671KOWJsxa0P1R%2BVeLCUAz%2BL96PMYQnaozrN52I9y31VceMEXHhsJtSpeGB%2BJYvueDDj9m2cOMRWnPhJ6Sz770FnA5oLKDOvLYCFKTUliVm3N%2BBfwZ4xAJgdPVS34qSL1GJeBCfLvmtPL2USbWyyxKNdVEO2GJy4aNuHQmJePdEJOTVOFNX%2FxTDKEGac%2FI%2F8lS9IRfF%2FpWAsc2l1GCBQ%3D%3D--p8DLZhgV33%2BSJ%2ByA--HAhNQIyKHDkHvsRY4x4aDQ%3D%3D",
+      "domain": "github.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_octo",
+      "value": "GH1.1.1272799516.1769260030",
+      "domain": ".github.com",
+      "path": "/",
+      "expires": 1800796030.176596,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "logged_in",
+      "value": "no",
+      "domain": ".github.com",
+      "path": "/",
+      "expires": 1800796030.17669,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cpu_bucket",
+      "value": "xlg",
+      "domain": ".github.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "preferred_color_mode",
+      "value": "light",
+      "domain": ".github.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "tz",
+      "value": "Asia%2FShanghai",
+      "domain": ".github.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__cf_bm",
+      "value": "U1K8gU9DO59I5RCph2nJbTyq_kZLzEqxcde4ciE2oWs-1769262960.8474226-1.0.1.1-Ox2u9Xvc7lFY6nf9x9mG3jk_pBMh.owuNpxdTqNYXT47aL7R.KRfjjHKSuYy20JyIazy2k92w8ElzG4HgmCl3I2VlRhruFIVxlHkVfDJDOvtdQy2GfpTkPYRkcaW.oLc",
+      "domain": ".x.com",
+      "path": "/",
+      "expires": 1769264760.916348,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://x.com",
+      "localStorage": [
+        {
+          "name": "__cuid",
+          "value": "98f3356c5a8a4fe7a71049213ffe27b6"
+        },
+        {
+          "name": "volume",
+          "value": "1"
+        }
+      ]
+    }
+  ]
+}

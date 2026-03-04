@@ -1,0 +1,4 @@
+interface:
+  display_name: "ETF Sector Momentum Report"
+  short_description: "Build daily 1-3 day ETF sector momentum reports."
+  default_prompt: "Use $etf-sector-momentum-report to pull the ETF Google Sheet, rank sectors, and write a 1-3 day trading report."
